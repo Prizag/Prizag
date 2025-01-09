@@ -30,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prizag&show_icons=true&locale=en&layout=compact" alt="prizag" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prizag&" alt="prizag" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prizag&" /></p>
 
