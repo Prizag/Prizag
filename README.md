@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **priyanka060905@gmail.com**
 
-- 📄 Know about my experiences [through my github profile](through my github profile)
+- 📄 Know about my experiences [through my github profile]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
